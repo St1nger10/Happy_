@@ -1,0 +1,174 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.body {
+    width: 90%;
+    position: relative;
+    top: 130px;
+    height: 100lh;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin: auto;
+    border-radius: 2%;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(219, 219, 219);
+}
+
+.container {
+    margin: 0px;
+    padding: 0px;
+}
+.header-menu {
+    margin-left: 0px;
+}
+
+.header-line {
+    margin: 0;
+    padding-left: 10px;
+    height: 75px;
+    width: 100% ;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    z-index: 2;
+}
+
+.tort {
+    padding: 10px;
+}
+
+.container2 {
+    position: relative;
+    margin: auto;
+    top: 150px;
+    z-index: 0;
+}
+
+.container3 {
+    position: relative;
+    margin: auto;
+    top: 50px;
+}
+.text3 {
+    text-align: center;
+    font-size: 28px;
+    padding-top: 30px ;
+}
+
+.fotos {
+    display: flex;
+    align-items: center;
+}
+
+.body-line2 {
+    display: flex;
+    align-items: center;
+}
+
+.foto2 {
+    position: absolute;
+    margin: auto;
+    right: 100px;
+    top: 150px;
+}
+
+.foto1 {
+    z-index: 1;
+    position: absolute;
+    margin: auto;
+    right: 450px;
+    top: 500px;
+    border-radius: 3%;
+}
+
+.text4 {
+    font-size: 80px;
+    margin-left: 170px;
+    position: relative;
+    bottom: auto;
+    top: 150px;
+}
+
+.text5 {
+    font-size: 40px;
+    margin-left: 100px;
+    position: relative;
+    bottom: auto;
+    top: 150px;
+}
+
+.track {
+    position: absolute;
+    margin: 0;
+    right: 30px;
+    top: 10px;
+}
+
+.text3 {
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    font-size: 35px;
+}
+
+.container-img{
+    position: relative;
+    margin: auto;
+    top: 50px;
+}
+
+.homies-img1 {
+    text-align: center;
+    justify-content: space-around;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+
+.leader-img {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.egor-img {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.vika-img {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.homies-line {
+    margin: 0;
+    padding-left: 10px;
+    height: 75px;
+    width: 100% ;
+    position: relative;
+    top:600px;
+}
+
+.homies-img2 {
+    text-align: center;
+    justify-content: space-around;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.homies-img3 {
+    text-align: center;
+    justify-content: space-around;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
